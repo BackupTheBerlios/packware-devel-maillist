@@ -1,0 +1,70 @@
+From swiergot at intersec.pl  Thu Jul 15 22:55:47 2004
+From: swiergot at intersec.pl (Jaroslaw Swierczynski)
+Date: Thu, 15 Jul 2004 22:55:47 +0200
+Subject: [Packware-devel] The Packware Project at BerliOS
+Message-ID: <20040715225547.7540961b@enterprise.starfleet>
+
+Hi,
+
+the project has moved to BerliOS Developer site (developer.berlios.de).
+Thereby from now on all mailing lists, CVS repository, website,
+bug tracker, all files and other related stuff will be hosted by
+BerliOS. So far we've created this mailing list and creation of
+another lists (-users and -announce) is in progress. Tomorrow we will
+restore the repository and run initial website. More informations to
+come soon.
+
+P.S. I've subscribed here all addresses that had been subscribed to the
+old list.
+
+-- 
+
+   [ ----------< Live Long And Prosper !!! >---------- ]
+   [   Jaroslaw Swierczynski  <swiergot at intersec.pl>   ]
+   [ RLU: 207395 GG: 1834439 JID: swiergot at intersec.pl ]
+   [ -----------------> Think Slack <----------------- ]
+
+
+From swiergot at intersec.pl  Fri Jul 16 18:36:00 2004
+From: swiergot at intersec.pl (Jaroslaw Swierczynski)
+Date: Fri, 16 Jul 2004 18:36:00 +0200
+Subject: [Packware-devel] The Packware Project at BerliOS
+In-Reply-To: <20040715225547.7540961b@enterprise.starfleet>
+References: <20040715225547.7540961b@enterprise.starfleet>
+Message-ID: <20040716183600.7da0e149@enterprise.starfleet>
+
+On Thu, 15 Jul 2004 22:55:47 +0200
+Jaroslaw Swierczynski <swiergot at intersec.pl> wrote:
+
+> Tomorrow we will restore the repository and run initial website.
+
+I'm affraid we will not manage to do that. There seems to be some
+problems at BerliOS and we are not able to log into the CVS and WWW
+accounts. We are waiting for the reply from the crew.
+
+-- 
+
+   [ ----------< Live Long And Prosper !!! >---------- ]
+   [   Jaroslaw Swierczynski  <swiergot at intersec.pl>   ]
+   [ RLU: 207395 GG: 1834439 JID: swiergot at intersec.pl ]
+   [ -----------------> Think Slack <----------------- ]
+
+
+From swiergot at intersec.pl  Fri Jul 30 20:44:42 2004
+From: swiergot at intersec.pl (Jaroslaw Swierczynski)
+Date: Fri, 30 Jul 2004 20:44:42 +0200
+Subject: [Packware-devel] CVS comming back
+Message-ID: <20040730204442.6b6347b9@enterprise.starfleet>
+
+We have finally started to restore our CVS repository. pwbuilder has
+been already commited and we are successively commiting package sources.
+It will take some time, we will keep you informed.
+
+-- 
+
+   [ ----------< Live Long And Prosper !!! >---------- ]
+   [   Jaroslaw Swierczynski  <swiergot at intersec.pl>   ]
+   [ RLU: 207395 GG: 1834439 JID: swiergot at intersec.pl ]
+   [ -----------------> Think Slack <----------------- ]
+
+
